@@ -11,4 +11,9 @@
     <string name="incorrect_toast">WRONG!!! >:C</string>
     <string name="next_button">Next</string>
     <string name="previous_button">Prev</string>
+
+    <string name="warning_text">Are you sure you want to be a scumbag cheater?</string>
+    <string name="show_answer_button">Show answer</string>
+    <string name="cheat_button">Press me to cheat, you fucker</string>
+    <string name="judgment_toast">You are going to hell :)))</string>
 </resources>

@@ -29,6 +29,7 @@ class QuizViewModel(private val savedStateHandle: SavedStateHandle) : ViewModel(
         get() = questionBank[currentIndex].questionText
 
     fun moveToNext(){
+        Log.d(TAG, "Updating question text", Exception())
         currentIndex = (currentIndex + 1) % questionBank.size
     }
 
